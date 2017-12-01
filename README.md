@@ -30,3 +30,6 @@ Step 2: The dataset is then split on the different attributes. The entropy for e
 
 Step 3: Choose attribute with the largest information gain as the decision node, divide the dataset by its branches and repeat the same process on every branch.
 
+# Heat map of Pokemon dataset
+![heat](https://user-images.githubusercontent.com/23000971/33501035-1933aefc-d701-11e7-9fd8-3d66a6a3c2a2.JPG)
+
